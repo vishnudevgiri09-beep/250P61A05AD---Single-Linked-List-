@@ -1,4 +1,4 @@
-how # 250P61A05AD---Single-Linked-List 
+# 250P61A05AD---Single-Linked-List 
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -146,6 +146,7 @@ void traverse() {
         temp = temp->next;
     }
     printf("NULL\n");}
+<img width="332" height="533" alt="image" src="https://github.com/user-attachments/assets/f22e5579-5a0e-491f-8a95-527cc057f904" />
 
 
 
